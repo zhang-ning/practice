@@ -14,4 +14,5 @@ func main() {
 	words := []string{"ad", "bd", "aaab", "baa", "badab"}
 
 	fmt.Println(pk.CountConsistentStrings(allowed, words))
+
 }
